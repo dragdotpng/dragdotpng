@@ -38,7 +38,7 @@
   },
   {
     "name": "give",
-    "description": "Give a user wieners",
+    "description": "Give a user coins",
     "permissions": null,
     "arguments": [
       "user",
@@ -109,16 +109,6 @@
     ]
   },
   {
-    "name": "restart",
-    "description": "Restart the bot",
-    "permissions": [
-      "bot owner"
-    ],
-    "arguments": [
-      ""
-    ]
-  },
-  {
     "name": "rob",
     "description": "Rob a user",
     "permissions": null,
@@ -137,6 +127,38 @@
   {
     "name": "stats",
     "description": "View your stats",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "daily",
+    "description": "Get your daily reward",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "hourly",
+    "description": "Get your hourly reward",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "crime",
+    "description": "Do a crime for a dime",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "beg",
+    "description": "Beg for coins",
     "permissions": null,
     "arguments": [
       ""
