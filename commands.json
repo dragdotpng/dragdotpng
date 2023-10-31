@@ -12,7 +12,7 @@
   {
     "name": "antiraid",
     "description": "Enable/Disable antiraid features",
-   "permissions": [
+    "permissions": [
       "Administrator"
     ],
     "arguments": [
