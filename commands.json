@@ -1,15 +1,5 @@
 [
   {
-    "name": "additem",
-    "description": "Add an item to the shop",
-    "permissions": [
-      "bot owner"
-    ],
-    "arguments": [
-      "item"
-    ]
-  },
-  {
     "name": "antiraid",
     "description": "Enable/Disable antiraid features",
     "permissions": [
@@ -116,16 +106,6 @@
     "permissions": null,
     "arguments": [
       ""
-    ]
-  },
-  {
-    "name": "removeitem",
-    "description": "Remove an item from the shop",
-    "permissions": [
-      "bot owner"
-    ],
-    "arguments": [
-      "item"
     ]
   },
   {
