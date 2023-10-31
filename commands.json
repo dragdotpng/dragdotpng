@@ -1,0 +1,164 @@
+[
+  {
+    "name": "additem",
+    "description": "Add an item to the shop",
+    "permissions": [
+      "bot owner"
+    ],
+    "arguments": [
+      "item"
+    ]
+  },
+  {
+    "name": "antiraid",
+    "description": "Enable/Disable antiraid features",
+   "permissions": [
+      "Administrator"
+    ],
+    "arguments": [
+      "feature"
+    ]
+  },
+  {
+    "name": "ban",
+    "description": "Ban a user",
+    "permissions": [
+      "Ban"
+    ],
+    "arguments": [
+      "user"
+    ]
+  },
+  {
+    "name": "buy",
+    "description": "Buy something from the shop",
+    "permissions": null,
+    "arguments": [
+      "item"
+    ]
+  },
+  {
+    "name": "coinflip",
+    "description": "Flip a coin",
+    "permissions": null,
+    "arguments": [
+      "bet amount"
+    ]
+  },
+  {
+    "name": "give",
+    "description": "Give a user wieners",
+    "permissions": null,
+    "arguments": [
+      "user",
+      "amount"
+    ]
+  },
+  {
+    "name": "help",
+    "description": "This website",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "inventory",
+    "description": "View your inventory",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "kick",
+    "description": "Kick a user",
+    "permissions": [
+      "Kick"
+    ],
+    "arguments": [
+      "user",
+      "reason"
+    ]
+  },
+  {
+    "name": "leaderboard",
+    "description": "View the server leaderboard",
+    "permissions": null,
+    "arguments": [
+      "page"
+    ]
+  },
+  {
+    "name": "options",
+    "description": "View the servers options",
+    "permissions": [
+      "Administrator"
+    ],
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "Poll",
+    "description": "Create a poll",
+    "permissions": [
+      "Manage messages"
+    ],
+    "arguments": [
+      "question"
+    ]
+  },
+  {
+    "name": "pray",
+    "description": "Pray for a blessing",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "removeitem",
+    "description": "Remove an item from the shop",
+    "permissions": [
+      "bot owner"
+    ],
+    "arguments": [
+      "item"
+    ]
+  },
+  {
+    "name": "restart",
+    "description": "Restart the bot",
+    "permissions": [
+      "bot owner"
+    ],
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "rob",
+    "description": "Rob a user",
+    "permissions": null,
+    "arguments": [
+      "user"
+    ]
+  },
+  {
+    "name": "shop",
+    "description": "View the shop",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  },
+  {
+    "name": "stats",
+    "description": "View your stats",
+    "permissions": null,
+    "arguments": [
+      ""
+    ]
+  }
+]
