@@ -72,6 +72,30 @@
     "category": "moderation"
   },
   {
+    "name": "warn",
+    "description": "Warn a user",
+    "permissions": [
+      "Manage messages"
+    ],
+    "arguments": [
+      "user",
+      "reason"
+    ],
+    "category": "moderation"
+  },
+  {
+    "name": "warns",
+    "description": "",
+    "permissions": [
+      "Manage messages"
+    ],
+    "arguments": [
+      "user",
+      "clear"
+    ],
+    "category": "moderation"
+  },
+  {
     "name": "leaderboard",
     "description": "View the server leaderboard",
     "permissions": null,
@@ -163,5 +187,68 @@
       ""
     ],
     "category": "economy"
+  },
+  {
+    "name": "balance",
+    "description": "View your balance",
+    "permissions": null,
+    "arguments": [
+      ""
+    ],
+    "category": "economy"
+  },
+  {
+    "name": "userinfo",
+    "description": "View a users info",
+    "permissions": null,
+    "arguments": [
+      "user"
+    ],
+    "category": "general"
+  },
+  {
+    "name": "serverinfo",
+    "description": "View a servers info",
+    "permissions": null,
+    "arguments": [
+      ""
+    ],
+    "category": "server"
+  },
+  {
+    "name": "membercount",
+    "description": "View the servers membercount",
+    "permissions": null,
+    "arguments": [
+      "user"
+    ],
+    "category": "general"
+  },
+  {
+    "name": "roles",
+    "description": "View all roles",
+    "permissions": null,
+    "arguments": [
+      ""
+    ],
+    "category": "server"
+  },
+  {
+    "name": "dictionary",
+    "description": "Get the definition of a word",
+    "permissions": null,
+    "arguments": [
+      "word"
+    ],
+    "category": "general"
+  },
+  {
+    "name": "urbandictionary",
+    "description": "Get the definition of a word from the urban dictionary",
+    "permissions": null,
+    "arguments": [
+      "word"
+    ],
+    "category": "general"
   }
 ]
