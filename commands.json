@@ -250,5 +250,14 @@
       "word"
     ],
     "category": "general"
+  },
+  {
+    "name": "premium",
+    "description": "View the perks of premium or buy premium",
+    "permissions": null,
+    "arguments": [
+      ""
+    ],
+    "category": "general"
   }
 ]
