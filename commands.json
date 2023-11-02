@@ -124,7 +124,7 @@
     "arguments": [
       "page"
     ],
-    "category": "level"
+    "category": "economy"
   },
   {
     "name": "options",
@@ -244,7 +244,7 @@
     "arguments": [
       "user"
     ],
-    "category": "general"
+    "category": "server"
   },
   {
     "name": "roles",
@@ -281,5 +281,14 @@
       ""
     ],
     "category": "general"
+  },
+  {
+    "name": "lmgtfy",
+    "description": "Let me google that for you",
+    "permissions": null,
+    "arguments": [
+      ""
+    ],
+    "category": "fun"
   }
 ]
