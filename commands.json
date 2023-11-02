@@ -1,12 +1,34 @@
 [
   {
     "name": "antiraid",
-    "description": "Enable/Disable antiraid features",
+    "description": "View servers antiraid options",
     "permissions": [
       "Administrator"
     ],
     "arguments": [
-      "feature"
+      ""
+    ],
+    "category": "antiraid"
+  },
+  {
+    "name": "antiraid defaultpfp",
+    "description": "Punish users with a default profile picture",
+    "permissions": [
+      "Administrator"
+    ],
+    "arguments": [
+      ""
+    ],
+    "category": "antiraid"
+  },
+  {
+    "name": "antiraid newaccount",
+    "description": "Punish users with a newly registered account",
+    "permissions": [
+      "Administrator"
+    ],
+    "arguments": [
+      ""
     ],
     "category": "antiraid"
   },
