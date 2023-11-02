@@ -94,6 +94,28 @@
     "category": "moderation"
   },
   {
+    "name": "mute",
+    "description": "Mute a user",
+    "permissions": [
+      "Manage roles"
+    ],
+    "arguments": [
+      "user"
+    ],
+    "category": "moderation"
+  },
+  {
+    "name": "unmute",
+    "description": "Unmute a user",
+    "permissions": [
+      "Manage roles"
+    ],
+    "arguments": [
+      "user"
+    ],
+    "category": "moderation"
+  },
+  {
     "name": "warn",
     "description": "Warn a user",
     "permissions": [
