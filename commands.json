@@ -107,7 +107,7 @@
   },
   {
     "name": "warns",
-    "description": "",
+    "description": "View a users warns",
     "permissions": [
       "Manage messages"
     ],
